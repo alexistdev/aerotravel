@@ -1,4 +1,8 @@
-Ini adalah web untuk generate API yang akan dikirimkan ke Android utk aplikasi MyTour (Untuk Aplikasi androidnya ada di file aerotravel.zip)</br>
+<h1>Aplikasi Aerotravel</h1>
+Ini adalah Aplikasi untuk Tour And Travel untuk booking system berbasis android dan webservice dengan codeigniter:</br><br>
+<img src="https://i.postimg.cc/fbV0cCNK/Post-Plus1620304292006.jpg" alt="mytourweb" />
+
+Detail:<br>
 <ul>
 	<li>Php minimal 5.3.7</li>
 	<li>Codeigniter 3.1.11 http://codeigniter.com/download</li>
