@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">AeroTravel</string>
+
+    <!-- Halaman Login   -->
+    <string name="login1">Login</string>
+    <string name="login2">logo aerotravel</string>
+    <string name="login3">Email</string>
+    <string name="login4">Password</string>
+    <string name="login5">Lupa Password?</string>
+    <string name="login6">Belum memiliki akun? Daftar</string>
+    <string name="login7">Gambar tombol login</string>
+    <!-- Halaman Daftar   -->
+    <string name="daftar1">Daftar</string>
+    <string name="daftar2">Nama Lengkap</string>
+    <string name="daftar3">Email</string>
+    <string name="daftar4">Password</string>
+    <string name="daftar5">Phone</string>
+    <string name="daftar6">Saya menyetujui Ketentuan dan Layanan</string>
+    <string name="daftar7">Sudah memiliki akun? Login</string>
+    <string name="daftar8">Gambar tombol daftar</string>
+    <!-- Destinasi   -->
+    <string name="destinasi1">Gambar Destinasi</string>
+    <string name="destinasi2">judul</string>
+    <string name="destinasi3">isi</string>
+    <string name="destinasi4">300</string>
+    <string name="destinasi5">Like</string>
+    <string name="destinasi6">Gambar Like</string>
+    <string name="destinasi7">00.00 &#8211; 00.00</string>
+    <string name="destinasi8">Jadwal Trip 1 Day</string>
+    <string name="destinasi9">Include Fasilitas</string>
+    <string name="destinasi10">Include Fasilitas</string>
+    <string name="destinasi11">gambar icon</string>
+    <string name="destinasi12">Nama Fasilitas</string>
+
+    <!-- Booking   -->
+    <string name="booking1">Order :# 12345</string>
+    <string name="booking2">Lunas</string>
+    <string name="booking3">1 DAY PAHAWANG NEW NORMAL 2020</string>
+    <string name="booking4">Rp.450.000</string>
+    <string name="booking5">Berangkat: 01&#8211;01&#8211;2020</string>
+    <string name="booking6">CATATAN:</string>
+    <string name="booking7">Pembatalan Keberangkatan Sepihak = DP Hangus</string>
+    <string name="booking8">Untuk Fiksasi Trip Segera Melakukan DP untuk Booking Trip ( H-1 Bulan )</string>
+    <string name="booking9">Pembatalan Trip dikarenakan Force Major ( Bencana dan Wabah ) :</string>
+    <string name="booking10">Jika Cancel / Refund : 30 % Dari DP masuk</string>
+    <string name="booking11">Jika Reschedule : Uang DP tersimpan Full ( Bisa di Ganti Waktu asal bukan High Season )</string>
+    <string name="booking12">Uang muka (DP) sebesar 30 %</string>
+    <string name="booking13">Pembayaran Transfer ke:</string>
+    <string name="booking14">Bank BRI a.n PT. Aero Travel Indonesia</string>
+    <string name="booking15">No.rek: 0098&#8211;01&#8211;002293&#8211;56&#8211;5</string>
+    <string name="booking16">Pilih Paket : </string>
+    <string name="booking17">Tanggal Booking</string>
+    <string name="booking18">IdBooking</string>
+    <string name="booking19">Harga per orang</string>
+    <string name="booking20">Tombol Checkout</string>
+    <string name="booking21">Jumlah Peserta</string>
+    <string name="booking22">logo berhasil</string>
+    <string name="booking23">Paket Wisata</string>
+    <string name="booking24">Jumlah Peserta</string>
+    <string name="booking25">5</string>
+    <string name="booking26">Tanggal Wisata</string>
+    <string name="booking27">01&#8211;01&#8211;2020</string>
+    <string name="booking28">Total Harga</string>
+    <string name="booking29">Rp.40.000</string>
+    <string name="booking30">tombol lanjutkan</string>
+    <!-- Pesan   -->
+    <string name="pesan1">Belum ada pesan !</string>
+    <string name="pesan2">Logo inbox !</string>
+    <string name="pesan3">Dibuat: 01&#8211;01&#8211;2021</string>
+    <string name="pesan4">Open</string>
+    <string name="pesan5">Icon Add</string>
+    <string name="pesan6">Judul Pesan</string>
+    <string name="pesan7">Isi Pesan</string>
+    <string name="pesan8">Kirim Pesan</string>
+    <string name="pesan9">Isi Pesan</string>
+
+    <!-- Akun   -->
+    <string name="akun1">Email</string>
+    <string name="akun2">Nama Lengkap</string>
+    <string name="akun3">Telepon</string>
+    <string name="akun4">Nomor KTP</string>
+    <string name="akun5">Alamat</string>
+    <string name="akun6">Password</string>
+    <string name="akun7">UBAH</string>
+    <string name="akun8">LOGOUT</string>
+    <!-- Adapter   -->
+    <string name="adapter1">Pending</string>
+    <string name="adapter2">Lunas</string>
+    <string name="adapter3">Berangkat : %1$s</string>
+    <string name="adapter4">Rp. %1$s</string>
+    <string name="adapter5">Kode Booking : # %1$s</string>
+    <string name="adapter6">Dibuat : %1$s</string>
+    <string name="adapter7">Open</string>
+    <string name="adapter8">Dibalas</string>
+    <string name="adapter9">Closed</string>
+
+</resources>
