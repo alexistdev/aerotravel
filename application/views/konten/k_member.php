@@ -29,8 +29,6 @@ defined('BASEPATH') or exit('No direct script access allowed');?>
 			</div>
 			<div class="card-body">
 				Selamat Datang di Aplikasi AeroTravel<br>
-				Developer:Calysta sakralya althasya (1711010041)<br>
-				Contact: 0822-7819-2055
 			</div>
 			<!-- /.card-body -->
 			<div class="card-footer">

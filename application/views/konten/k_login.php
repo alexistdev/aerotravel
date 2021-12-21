@@ -33,18 +33,7 @@ defined('BASEPATH') or exit('No direct script access allowed');?>
 						</div>
 					</div>
 				</div>
-				<div class="row">
-					<div class="col-md-6">
-						<div class="icheck-primary">
-							<?= $image; ?>
-						</div>
-					</div>
-					<!-- /.col -->
-					<div class="col-md-6">
-						<input name="captcha" class="form-control" placeholder="Captcha"/>
-					</div>
-					<!-- /.col -->
-				</div>
+
 				<div class="row mt-4">
 					<div class="col-md-12">
 						<button type="submit" class="btn btn-primary btn-block">Login</button>
